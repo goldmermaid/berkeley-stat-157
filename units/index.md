@@ -4,7 +4,7 @@
 
 .. toctree::
    :maxdepth: 1
-   
+
    introduction
    probability
    arrays
@@ -18,7 +18,8 @@
    convnet
    lenet
    resnet
-   makingitwork
+   parallel
+   finetuning
    sequence
    rnn
    bptt
@@ -26,7 +27,5 @@
    optimization
    sgd
    adam
-   parallel
    imagenet
 ```
-
