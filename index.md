@@ -17,6 +17,9 @@
 
 ## News
 
+- 4/9: Added slides/vidoes for lectures 3/21, 4/2, 4/4. Uploaded homework 8.
+- 4/2: Added solutions to homework 6, uploaded homework 7.
+- 3/18: Added solutions to homework 5.
 - 3/15: Added slides/videos for lecture 3/14, with solutions to homework 3 and 4.
 - 3/13: Added slides/videos for lectures on 3/12, including midterm exam logistics
 - 3/5: Added midterm presentations
